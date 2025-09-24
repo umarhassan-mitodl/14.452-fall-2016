@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "legacy_uid": "49511945-0931-3b76-fcff-372fb81a1243",
+  "instructors": {
+    "content": [
+      "c322ae43-64ff-ef0e-f69e-97169ee5f319"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c7f5caa9-821b-c04c-986b-25b501465d09",
+    "website": "14-452-economic-growth-fall-2016"
+  },
+  "course_title": "Economic Growth",
+  "course_description": "This half semester class will present an introduction to macroeconomic modeling, particularly economic growth. It will focus both on models of economic growth and their empirical applications, and try to shed light on the mechanics of economic growth, technological change and sources of income and growth differences across countries.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.452",
+  "course_image_thumbnail": {
+    "content": "c76bc44f-0617-f2d6-09fc-57b34d919eba",
+    "website": "14-452-economic-growth-fall-2016"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "881ed0d0-dc80-4f45-a710-bcbcd13f2bf5",
+  "site_short_id": "14.452-fall-2016",
+  "site_url_path": "courses/14-452-economic-growth-fall-2016",
+  "title": "Course Metadata"
+}
